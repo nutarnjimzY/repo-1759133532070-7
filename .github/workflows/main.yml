@@ -1,4 +1,4 @@
-name: integrasi yaml
+name: package manager
 
 on:
   push:
